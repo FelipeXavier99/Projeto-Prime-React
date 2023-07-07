@@ -1,7 +1,7 @@
-# Executar Servidor pelo terminal VS CODE(selecionar pasta server)
+# Comando pra executar pasta BACK-END pelo terminal VS CODE(selecionar pasta com botao direito)
 npm run dev
 
-# ExecutarServidor pelo terminal VS COD(selecionar pasta src) FRONT END
+# Comando pra executar pasta FRONT-END pelo terminal VS COD(selecionar pasta src) 
 npm start
 
 
