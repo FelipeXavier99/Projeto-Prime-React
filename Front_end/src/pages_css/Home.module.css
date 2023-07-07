@@ -1,0 +1,17 @@
+.home_container {
+    box-sizing: border-box;
+			text-align: center;
+			background-repeat: no-repeat;
+			background-size: cover;
+			
+			width: 50%;
+			font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+			font-size: large;
+			position: absolute;
+            top: 110px; 
+       		left: 25%;
+    		border-radius: 10px; 
+			color: black;
+  }
+
+ 

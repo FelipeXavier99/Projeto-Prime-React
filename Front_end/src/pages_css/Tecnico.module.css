@@ -1,0 +1,72 @@
+
+  /*  detalhe q nao inicia com ponto (.) */
+  th2 {
+    color:  rgb(15, 51, 31);
+	display: table-cell;
+	vertical-align: inherit;
+	font-weight: bold;
+	text-align: -internal-center;
+	position: relative;
+	left: 0%;
+}
+
+th{
+  color:  rgb(15, 51, 31);
+}
+
+/* só essas abaixo funcionam */
+
+.tipoLance_container {
+  margin-top: 10px;
+  position: relative;
+  left: 400px;
+  width: 70%;
+  z-index: 1;
+
+  }
+  
+  .titulo{
+
+	color: rgb(15, 51, 31);
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 46px;
+	font-weight: 100;
+	line-height: 50px;
+	text-align: center;
+	letter-spacing: 1px;
+	padding: 0 0 40px;
+	margin: auto;
+	position: relative;
+	left: -250px;
+  }
+
+  .avatar {
+    position: relative;
+    display: inline-block;
+    width: 48px;
+    height: 48px;
+  }
+  
+  .avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  
+  .icon {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 24px;
+    color: white;
+  }
+  
+  .avatarImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+  

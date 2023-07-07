@@ -1,0 +1,35 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: rgb(4, 7, 32);
+  padding: -1em;
+  margin: 0;
+  margin-left: 50;
+  width: 1330px;
+}
+
+.list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  justify-content: flex-start; /* Alterado para alinhar os itens à esquerda */
+  margin: 0;
+  padding: 0;
+  font-size: 140%;
+}
+
+.item {
+  margin-right: 1em;
+}
+
+.item a {
+  color: #fff;
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: #ffbb33;
+}
+.paisSedeActive {
+  color: blue; /* Defina o estilo desejado, como a cor azul */
+}

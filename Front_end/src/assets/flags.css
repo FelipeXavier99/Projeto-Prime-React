@@ -1,0 +1,59 @@
+.bandeira span.flag {
+    width: 44px;
+    height: 30px;
+    display: inline-block;
+  }
+  
+  .bandeira img.flag {
+    width: 30px;
+  }
+  
+  .flag {
+    background: url(https://primefaces.org/cdn/primereact/images/flag/flags_responsive.png) no-repeat;
+    background-size: 100%;
+    vertical-align: middle;
+  }
+  
+  .flag-ad { background-position: 0 .413223%; }
+  .flag-ae { background-position: 0 .826446%; }
+  .flag-af { background-position: 0 1.239669%; }
+  .flag-ag { background-position: 0 1.652893%; }
+  .flag-ai { background-position: 0 2.066116%; }
+  .flag-al { background-position: 0 2.479339%; }
+  .flag-am { background-position: 0 2.892562%; }
+  .flag-an { background-position: 0 3.305785%; }
+  .flag-ao { background-position: 0 3.719008%; }
+  .flag-aq { background-position: 0 4.132231%; }
+  .flag-ar { background-position: 0 4.545455%; }
+  .flag-as { background-position: 0 4.958678%; }
+  .flag-at { background-position: 0 5.371901%; }
+  .flag-au { background-position: 0 5.785124%; }
+  .flag-aw { background-position: 0 6.198347%; }
+  .flag-az { background-position: 0 6.61157%; }
+  .flag-ba { background-position: 0 7.024793%; }
+  .flag-bb { background-position: 0 7.438017%; }
+  .flag-bd { background-position: 0 7.85124%; }
+  .flag-be { background-position: 0 8.264463%; }
+  .flag-bf { background-position: 0 8.677686%; }
+  .flag-bg { background-position: 0 9.090909%; }
+  .flag-bh { background-position: 0 9.504132%; }
+  .flag-bi { background-position: 0 9.917355%; }
+  .flag-bj { background-position: 0 10.330579%; }
+  .flag-bm { background-position: 0 10.743802%; }
+  .flag-bn { background-position: 0 11.157025%; }
+  .flag-bo { background-position: 0 11.570248%; }
+  .flag-br { background-position: 0 11.983471%; }
+  .flag-bs { background-position: 0 12.396694%; }
+  .flag-bt { background-position: 0 12.809917%; }
+  .flag-bv { background-position: 0 13.22314%; }
+  .flag-bw { background-position: 0 13.636364%; }
+  .flag-by { background-position: 0 14.049587%; }
+  .flag-bz { background-position: 0 14.46281%; }
+  .flag-ca { background-position: 0 14.876033%; }
+  .flag-cc { background-position: 0 15.289256%; }
+  .flag-cd { background-position: 0 15.702479%; }
+  .flag-cf { background-position: 0 16.115702%; }
+  .flag-es { background-position: 0 26.859504%; }
+
+
+  

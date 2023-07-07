@@ -1,0 +1,41 @@
+
+  /*  detalhe q nao inicia com ponto (.) */
+  th2 {
+    color:  rgb(15, 51, 31);
+	display: table-cell;
+	vertical-align: inherit;
+	font-weight: bold;
+	text-align: -internal-center;
+	position: relative;
+	left: 0%;
+}
+
+th{
+  color:  rgb(15, 51, 31);
+}
+
+/* só essas abaixo funcionam */
+
+.tipoLance_container {
+	margin-top: 10px;
+	position: relative;
+	left: 400px;
+	width: 70%;
+	z-index: 1;
+
+  }
+  
+  .titulo{
+
+	color: rgb(15, 51, 31);
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 46px;
+	font-weight: 100;
+	line-height: 50px;
+	text-align: center;
+	letter-spacing: 1px;
+	padding: 0 0 40px;
+	margin: auto;
+	position: relative;
+	left: -250px;
+  }
