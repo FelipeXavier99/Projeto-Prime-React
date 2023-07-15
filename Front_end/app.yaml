@@ -1,0 +1,17 @@
+runtime: nodejs18
+env: standard
+service: default
+instance_class: F1
+automatic_scaling:
+  max_concurrent_requests: 20
+  target_cpu_utilization: 0.7
+  max_instances: 10
+
+handlers:
+#- url: /stylesheets
+#  static_dir: stylesheets
+
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto

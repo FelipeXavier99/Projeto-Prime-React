@@ -1,4 +1,4 @@
-# Excutar Servidor(selecionar pasta server)
+# Excutar BACK END(selecionar pasta server)
 npm run dev
 
 # Execurar App.js(selecionar pasta src) FRONT END
