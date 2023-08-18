@@ -27,6 +27,8 @@ app.listen(3001, () => {
   console.log("rodando na porta 3001");
 });
 
+// pra rodar na nuvem tem q ser a porta 8080 el alterar todas as portas 3001 pra 8080
+
 
 /*    -----------------INICIO COPA    -------------------                   */
 
